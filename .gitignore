@@ -1,0 +1,4 @@
+#place file names to be excluded when committing 
+
+.env
+
